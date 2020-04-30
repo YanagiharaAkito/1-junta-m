@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int f(int x) { return /* ここを埋める */; }
+int f(int x) { return /* ここを埋める */; }//適当な関数を定義しましょう
 
 int main() {
     int x, y;
